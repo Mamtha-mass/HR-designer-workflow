@@ -85,4 +85,10 @@ A modern, interactive frontend application designed for Human Resources professi
 
 - **Gradient Headers**: Distinct color coding for different node types (Blue for Start, Purple for Approvals, etc.).
 - **Micro-interactions**: Hover effects, focus states on form inputs, and animated modals.
-- **Feedback**: Loading states during simulation and success animations upon saving settings. 
+- **Feedback**: Loading states during simulation and success animations upon saving settings.
+## Workflow Canvas Preview
+![Workflow Canvas](Screenshot%202025-12-11%20104307.png)
+
+## Node Properties Panel
+![Node Properties](Screenshot%202025-12-11%20104320.png)
+
